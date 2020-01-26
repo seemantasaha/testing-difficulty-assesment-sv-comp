@@ -1,5 +1,9 @@
 # Compiled class file
 *.class
+IntegerGenerator.java
+StringGenerator.java
+IntegerTest.java
+StringTest.java
 
 # Log file
 *.log
